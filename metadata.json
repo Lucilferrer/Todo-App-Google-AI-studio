@@ -1,0 +1,5 @@
+{
+  "name": "Minimalist Todo",
+  "description": "A clean and modern todo application with authentication powered by Supabase.",
+  "requestFramePermissions": []
+}
